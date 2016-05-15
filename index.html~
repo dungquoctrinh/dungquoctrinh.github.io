@@ -70,10 +70,10 @@
 		<img src="resource/page_icon/Mono.png" align ="center"/>
 	</div>
 	<!-- add keyword control for control player-->
-	
+	<!-- edit the music/ hello song-->
 	<div>
 	<audio autoplay="autoplay" controls="controls">
-	     <source src="resource/audio/hello.mp3" />     
+	     <source src="resource/audio/Nicolai Heidlas - Happy Chances.mp3" />     
 	 </audio>
 	</div>
 	<!--include jquery & backstretch-->
