@@ -46,10 +46,6 @@
 	<div id="profile">
 		<img src="resource/profile/profile_material_design.png" alt ="profile" height="180" width="180" align = "right"/>
 	</div>
-	<!-- add keyword control for control player-->
-	<audio autoplay="autoplay">
-	     <source src="resource/audio/demo.mp3" />     
-	 </audio>
 	<div id="about">
 		<h1>Jun Trinh is a software developer</h1>
 		
@@ -73,7 +69,13 @@
 	<div id="monogram">
 		<img src="resource/page_icon/Mono.png" align ="center"/>
 	</div>
-
+	<!-- add keyword control for control player-->
+	
+	<div>
+	<audio autoplay="autoplay" controls="controls">
+	     <source src="resource/audio/demo.mp3" />     
+	 </audio>
+	</div>
 	<!--include jquery & backstretch-->
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 	<script type="text/javascript" src="jquery.backstretch.min.js"></script>
