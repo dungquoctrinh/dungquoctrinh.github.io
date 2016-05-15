@@ -73,7 +73,8 @@
 	<!-- edit the music/ hello song-->
 	<div>
 	<audio autoplay="autoplay" controls="controls">
-	     <source src="resource/audio/Nicolai Heidlas - Happy Chances.mp3" />     
+	     <source src="resource/audio/Nicolai Heidlas - Happy Chances.mp3" />   
+	     <source src="resource/audio/Happy - Cheerful Ukulele Guitar.mp3" />    
 	 </audio>
 	</div>
 	<!--include jquery & backstretch-->
