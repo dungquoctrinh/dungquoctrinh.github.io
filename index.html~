@@ -71,12 +71,14 @@
 	</div>
 	<!-- add keyword control for control player-->
 	<!-- edit the music/ hello song-->
+	<!--
 	<div>
 	<audio autoplay="autoplay" controls="controls">
 	     <source src="resource/audio/Nicolai Heidlas - Happy Chances.mp3" />   
 	     <source src="resource/audio/Happy - Cheerful Ukulele Guitar.mp3" />    
 	 </audio>
 	</div>
+	-->
 	<!--include jquery & backstretch-->
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 	<script type="text/javascript" src="jquery.backstretch.min.js"></script>
