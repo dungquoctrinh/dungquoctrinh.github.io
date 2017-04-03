@@ -1,0 +1,23 @@
+# Site settings
+title: Jun Trinh's Page
+description: A little bit about Jun
+# the subpath of your site, e.g. /blog
+#set the default path
+baseurl: "" 
+# the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://dungquoctrinh.github.io/" 
+
+# User settings
+username: Jun Trinh
+user_description: I am interested in software development, Android development, <a href="https://en.wikipedia.org/wiki/Augmented_reality">augmented reality(AR)</a> technology and<a href="https://en.wikipedia.org/wiki/Artificial_intelligence"> artificial intelligence.</a> I am familiar with Java, C, Python, PHP, Javascript, C++, C#, MySQL, HTML and CSS
+user_title: Software Developer
+email: dungqtrinh57@gmail.com
+#twitter_username: lorem_ipsum
+github_username:  dungquoctrinh
+#gplus_username:  lorem_ipsum
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
