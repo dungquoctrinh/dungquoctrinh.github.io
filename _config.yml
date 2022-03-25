@@ -4,7 +4,6 @@ description: A little bit about Jun
 # the subpath of your site, e.g. /blog
 #set the default path
 baseurl: "" 
-# the base hostname & protocol for your site e.g. http://willianjusten.com.br
 url: "https://dungquoctrinh.github.io/" 
 
 # User settings
