@@ -76,4 +76,4 @@ gulp.task('watch', function() {
   gulp.watch(['*html', '_includes/*html', '_layouts/*.html'], ['jekyll-rebuild']);
 });
 
-gulp.task('default', ['js', 'sass', 'browser-sync', 'watch']);
+gulp.task('default', ['js', 'sass', 'browser-sync', 'jekyll-build']);
